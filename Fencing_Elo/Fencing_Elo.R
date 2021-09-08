@@ -1,18 +1,18 @@
-x1=read.delim('../desktop/Foil_Competitions/Cairo_Results.txt',header=FALSE)
-x2=read.delim('../desktop/Foil_Competitions/Tokyo_Results.txt',header=FALSE)
-x3=read.delim('../desktop/Foil_Competitions/Paris_Results.txt',header=FALSE)
-x4=read.delim('../desktop/Foil_Competitions/StPetersburg_Results.txt',header=FALSE)
-x5=read.delim('../desktop/Foil_Competitions/Bonn_Results.txt',header=FALSE)
-x6=read.delim('../desktop/Foil_Competitions/Doha_Results.txt',header=FALSE)
-x7=read.delim('../desktop/Foil_Competitions/Shanghai_Results.txt',header=FALSE)
-x8=read.delim('../desktop/Foil_Competitions/Anaheim_Results.txt',header=FALSE)
-x9=read.delim('../desktop/Foil_Competitions/Turin_2018.txt',header=FALSE)
-x10=read.delim('../desktop/Foil_Competitions/Bonn_2018.txt',header=FALSE)
-x11=read.delim('../desktop/Foil_Competitions/Cairo_2017.txt',header=FALSE)
-x12=read.delim('../desktop/Foil_Competitions/Tokyo_2017.txt',header=FALSE)
-x13=read.delim('../desktop/Foil_Competitions/StPetersburg_2018.txt',header=FALSE)
-x14=read.delim('../desktop/Foil_Competitions/CIP.txt',header=FALSE)
-x15=read.delim('../desktop/Foil_Competitions/Turin_Results.txt',header=FALSE)
+x1=read.delim('../desktop/Fencing_Elo/Foil_Competitions/Cairo_Results.txt',header=FALSE)
+x2=read.delim('../desktop/Fencing_Elo/Foil_Competitions/Tokyo_Results.txt',header=FALSE)
+x3=read.delim('../desktop/Fencing_Elo/Foil_Competitions/Paris_Results.txt',header=FALSE)
+x4=read.delim('../desktop/Fencing_Elo/Foil_Competitions/StPetersburg_Results.txt',header=FALSE)
+x5=read.delim('../desktop/Fencing_Elo/Foil_Competitions/Bonn_Results.txt',header=FALSE)
+x6=read.delim('../desktop/Fencing_Elo/Foil_Competitions/Doha_Results.txt',header=FALSE)
+x7=read.delim('../desktop/Fencing_Elo/Foil_Competitions/Shanghai_Results.txt',header=FALSE)
+x8=read.delim('../desktop/Fencing_Elo/Foil_Competitions/Anaheim_Results.txt',header=FALSE)
+x9=read.delim('../desktop/Fencing_Elo/Foil_Competitions/Turin_2018.txt',header=FALSE)
+x10=read.delim('../desktop/Fencing_Elo/Foil_Competitions/Bonn_2018.txt',header=FALSE)
+x11=read.delim('../desktop/Fencing_Elo/Foil_Competitions/Cairo_2017.txt',header=FALSE)
+x12=read.delim('../desktop/Fencing_Elo/Foil_Competitions/Tokyo_2017.txt',header=FALSE)
+x13=read.delim('../desktop/Fencing_Elo/Foil_Competitions/StPetersburg_2018.txt',header=FALSE)
+x14=read.delim('../desktop/Fencing_Elo/Foil_Competitions/CIP.txt',header=FALSE)
+x15=read.delim('../desktop/Fencing_Elo/Foil_Competitions/Turin_Results.txt',header=FALSE)
 
 Competitors1=c()
 Competitors2=c()
@@ -53,10 +53,11 @@ Competitors=na.omit(c(Competitors1,Competitors2,Competitors3,Competitors4,Compet
 Competitors=unique(Competitors)
 Rating=rep(1500,length(Competitors))
 Table=data.frame(Competitors,Rating)
-write.csv(Table,'../desktop/Elo_Ratings.txt',row.names=FALSE)
+file.create('../desktop/Fencing_Elo/Elo_Ratings.txt')
+write.csv(Table,'../desktop/Fencing_Elo/Elo_Ratings.txt',row.names=FALSE)
 
 Ratings_Updater=function(c){
-  Table=read.csv('../desktop/Elo_Ratings.txt')
+  Table=read.csv('../desktop/Fencing_Elo/Elo_Ratings.txt')
   Competition=gsub(pattern="Table",NA,c$V1)
   Competition=na.omit(Competition)
   for(i in seq(from=1,to=length(Competition),by=6)){
@@ -74,7 +75,7 @@ R_Prime_B=RB+24*(SB-EB)
 Table$Rating[Table$Competitors==Competition[i]]=R_Prime_A
 Table$Rating[Table$Competitors==Competition[i+3]]=R_Prime_B
 }
-write.csv(Table,'../desktop/Elo_Ratings.txt',row.names=FALSE)
+write.csv(Table,'../desktop/Fencing_Elo/Elo_Ratings.txt',row.names=FALSE)
 }
 
 Running=function(){
@@ -99,7 +100,7 @@ for(j in 1:100){
   Running()
 }
 
-z=read.csv('../desktop/Elo_Ratings.txt')
+z=read.csv('../desktop/Fencing_Elo/Elo_Ratings.txt')
 y=sort(z$Rating,decreasing=TRUE)
 
 v1=c()
