@@ -1,0 +1,383 @@
+KRUSE Richard
+GBR
+15
+BANEUX Julien
+BRA
+11
+INGARGIOLA Francesco
+ITA
+15
+OISHI Riki
+JPN
+7
+MO Ziwei
+CHN
+9
+SEMENYUK Grigoriy
+RUS
+15
+BRAUN Marius
+GER
+7
+MEINHARDT Gerek
+USA
+15
+CHEUNG Ka Long
+HKG
+13
+CHEREMISINOV Alexey
+RUS
+14
+HUANG Mengkai
+CHN
+14
+ARSLANOV Timur
+RUS
+15
+RIGIN Dmitry
+RUS
+14
+KIM Hyogon
+KOR
+15
+CHOI Nicholas Edward
+HKG
+13
+CHAMLEY-WATSON Miles
+USA
+12
+ZHEREBCHENKO Dmitry
+RUS
+7
+LLAVADOR Carlos
+ESP
+15
+TRANI Francesco
+ITA
+15
+CADOT Jeremy
+FRA
+10
+NAGANO Yudai
+JPN
+11
+CHASTANET Maximilien
+FRA
+15
+IM Cheolwoo
+KOR
+14
+LEFORT Enzo
+FRA
+15
+CASSARA Andrea
+ITA
+15
+PEGGS Ben
+GBR
+10
+SON Young Ki
+KOR
+11
+MERTINE Julien
+FRA
+15
+DAVIS James-Andrew
+GBR
+12
+LEE Kwanghyun
+KOR
+15
+SIDO Alexandre
+FRA
+11
+IMBODEN Race
+USA
+15
+FOCONI Alessio
+ITA
+15
+MATSUYAMA Kyosuke
+JPN
+12
+DOSA Daniel
+HUN
+9
+AUCLIN Erwann
+FRA
+15
+BIANCHI Guillaume
+ITA
+15
+KIM Dongsu
+KOR
+12
+SIMON Vincent
+FRA
+13
+SHIKINE Takahiro
+JPN
+15
+LE PECHOUX Erwann
+FRA
+15
+CHOUPENITCH Alexander
+CZE
+8
+CHEN Weiquan
+CHN
+15
+HAMZA Mohamed
+EGY
+14
+ITKIN Nick
+USA
+15
+PAUTY Maxime
+FRA
+11
+CHUCHUKALO Dmytro
+UKR
+4
+AVOLA Giorgio
+ITA
+15
+HA Taegyu
+KOR
+15
+JANDA Michal
+POL
+9
+BROSZUS Blake
+CAN
+9
+TOURETTE Geoffrey
+USA
+15
+LUPERI Edoardo
+ITA
+15
+HEO Jun
+KOR
+9
+KANESHIGE Brian
+USA
+10
+SAITO Toshiya
+JPN
+15
+ABOUELKASSEM Alaaeldin
+EGY
+13
+HERTSYK Rostyslav
+UKR
+15
+VAN HAASTER Maximilien
+CAN
+15
+ELICE Meddy
+FRA
+13
+ROSATELLI Damiano
+ITA
+15
+MEPSTEAD Marcus
+GBR
+9
+KAHL Alexander
+GER
+11
+MASSIALAS Alexander
+USA
+15
+Table of 32
+KRUSE Richard
+GBR
+15
+INGARGIOLA Francesco
+ITA
+12
+SEMENYUK Grigoriy
+RUS
+14
+MEINHARDT Gerek
+USA
+15
+CHEREMISINOV Alexey
+RUS
+15
+ARSLANOV Timur
+RUS
+6
+KIM Hyogon
+KOR
+14
+CHOI Nicholas Edward
+HKG
+15
+LLAVADOR Carlos
+ESP
+15
+TRANI Francesco
+ITA
+4
+CHASTANET Maximilien
+FRA
+14
+LEFORT Enzo
+FRA
+15
+CASSARA Andrea
+ITA
+15
+MERTINE Julien
+FRA
+13
+LEE Kwanghyun
+KOR
+12
+IMBODEN Race
+USA
+15
+FOCONI Alessio
+ITA
+14
+AUCLIN Erwann
+FRA
+15
+BIANCHI Guillaume
+ITA
+9
+SHIKINE Takahiro
+JPN
+15
+LE PECHOUX Erwann
+FRA
+15
+CHEN Weiquan
+CHN
+9
+ITKIN Nick
+USA
+12
+AVOLA Giorgio
+ITA
+15
+HA Taegyu
+KOR
+15
+TOURETTE Geoffrey
+USA
+10
+LUPERI Edoardo
+ITA
+15
+SAITO Toshiya
+JPN
+12
+HERTSYK Rostyslav
+UKR
+10
+VAN HAASTER Maximilien
+CAN
+15
+ROSATELLI Damiano
+ITA
+15
+MASSIALAS Alexander
+USA
+10
+Table of 16
+KRUSE Richard
+GBR
+13
+MEINHARDT Gerek
+USA
+15
+CHEREMISINOV Alexey
+RUS
+12
+CHOI Nicholas Edward
+HKG
+15
+LLAVADOR Carlos
+ESP
+6
+LEFORT Enzo
+FRA
+15
+CASSARA Andrea
+ITA
+15
+IMBODEN Race
+USA
+10
+AUCLIN Erwann
+FRA
+12
+SHIKINE Takahiro
+JPN
+15
+LE PECHOUX Erwann
+FRA
+15
+AVOLA Giorgio
+ITA
+11
+HA Taegyu
+KOR
+12
+LUPERI Edoardo
+ITA
+15
+VAN HAASTER Maximilien
+CAN
+13
+ROSATELLI Damiano
+ITA
+15
+Table of QF
+MEINHARDT Gerek
+USA
+15
+CHOI Nicholas Edward
+HKG
+11
+LEFORT Enzo
+FRA
+12
+CASSARA Andrea
+ITA
+15
+SHIKINE Takahiro
+JPN
+9
+LE PECHOUX Erwann
+FRA
+15
+LUPERI Edoardo
+ITA
+15
+ROSATELLI Damiano
+ITA
+6
+Table of SF
+MEINHARDT Gerek
+USA
+11
+CASSARA Andrea
+ITA
+15
+LE PECHOUX Erwann
+FRA
+15
+LUPERI Edoardo
+ITA
+8
+Table of Final
+CASSARA Andrea
+ITA
+14
+LE PECHOUX Erwann
+FRA
+15
