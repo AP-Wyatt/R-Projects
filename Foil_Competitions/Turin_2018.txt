@@ -1,0 +1,383 @@
+MASSIALAS Alexander
+USA
+15
+MARINI Tommaso
+ITA
+7
+PAROLI Alessandro
+ITA
+11
+CHEREMISINOV Alexey
+RUS
+15
+LI Chen
+CHN
+8
+AUCLIN Erwann
+FRA
+15
+HATOEL Maor
+ISR
+8
+CHAMLEY-WATSON Miles
+USA
+15
+LE PECHOUX Erwann
+FRA
+15
+MEPSTEAD Marcus
+GBR
+9
+BIANCHI Guillaume
+ITA
+11
+MATSUYAMA Kyosuke
+JPN
+15
+CHOUPENITCH Alexander
+CZE
+15
+ABOUELKASSEM Alaaeldin
+EGY
+13
+RZADKOWSKI Andrzej
+POL
+15
+AVOLA Giorgio
+ITA
+14
+IMBODEN Race
+USA
+15
+KAHL Alexander
+GER
+6
+CHUCHUKALO Dmytro
+UKR
+10
+JOPPICH Peter
+GER
+15
+KIM Hyogon
+KOR
+8
+ROSATELLI Damiano
+ITA
+15
+SIDO Alexandre
+FRA
+8
+LEFORT Enzo
+FRA
+15
+SAITO Toshiya
+JPN
+13
+SIESS Michal
+POL
+15
+TONY HELISSEY Jean-Paul
+FRA
+11
+HEO Jun
+KOR
+15
+TOFALIDES Alex
+CYP
+10
+BORODACHEV Kirill
+RUS
+15
+RESEGOTTI Matteo Claudio
+ITA
+7
+KRUSE Richard
+GBR
+15
+GAROZZO Daniele
+ITA
+15
+HARAVSKYI Maksym
+UKR
+13
+MATHIEU Adam
+USA
+15
+VAN HAASTER Maximilien
+CAN
+11
+INGARGIOLA Francesco
+ITA
+15
+FUJINO Daiki
+JPN
+11
+RIGIN Dmitry
+RUS
+15
+CASSARA Andrea
+ITA
+12
+CHEUNG Ka Long
+HKG
+15
+TOLDO Guilherme
+BRA
+8
+KLEIBRINK Benjamin
+GER
+15
+ABE Yoshiki
+JPN
+7
+MERTINE Julien
+FRA
+12
+SUZUMURA Kenta
+JPN
+15
+SCHOPPA Dominik
+GER
+3
+FOCONI Alessio
+ITA
+15
+ZHEREBCHENKO Dmitry
+RUS
+10
+JANDA Michal
+POL
+15
+LARI Tommaso
+ITA
+14
+ASPROMONTE Valerio
+ITA
+15
+KHAMZIN Askar
+RUS
+14
+SIMON Vincent
+FRA
+15
+HAN Dong Jin
+KOR
+6
+HA Taegyu
+KOR
+15
+MEINHARDT Gerek
+USA
+12
+DOUGLAS Sholto
+AUS
+15
+NISTA Lorenzo
+ITA
+13
+KERYHUEL Jeremy Fafa
+CIV
+15
+CHOI Nicholas Edward
+HKG
+13
+LLAVADOR Carlos
+ESP
+15
+PEGGS Ben
+GBR
+7
+SAFIN Timur
+RUS
+15
+Table of 32
+MASSIALAS Alexander
+USA
+15
+CHEREMISINOV Alexey
+RUS
+13
+AUCLIN Erwann
+FRA
+15
+CHAMLEY-WATSON Miles
+USA
+10
+LE PECHOUX Erwann
+FRA
+15
+MATSUYAMA Kyosuke
+JPN
+9
+CHOUPENITCH Alexander
+CZE
+15
+RZADKOWSKI Andrzej
+POL
+9
+IMBODEN Race
+USA
+15
+JOPPICH Peter
+GER
+13
+ROSATELLI Damiano
+ITA
+13
+LEFORT Enzo
+FRA
+15
+SIESS Michal
+POL
+15
+HEO Jun
+KOR
+12
+BORODACHEV Kirill
+RUS
+9
+KRUSE Richard
+GBR
+15
+GAROZZO Daniele
+ITA
+15
+MATHIEU Adam
+USA
+10
+INGARGIOLA Francesco
+ITA
+9
+RIGIN Dmitry
+RUS
+15
+CHEUNG Ka Long
+HKG
+15
+KLEIBRINK Benjamin
+GER
+9
+SUZUMURA Kenta
+JPN
+6
+FOCONI Alessio
+ITA
+15
+JANDA Michal
+POL
+11
+ASPROMONTE Valerio
+ITA
+15
+SIMON Vincent
+FRA
+15
+HA Taegyu
+KOR
+6
+DOUGLAS Sholto
+AUS
+15
+KERYHUEL Jeremy Fafa
+CIV
+13
+LLAVADOR Carlos
+ESP
+10
+SAFIN Timur
+RUS
+15
+Table of 16
+MASSIALAS Alexander
+USA
+15
+AUCLIN Erwann
+FRA
+5
+LE PECHOUX Erwann
+FRA
+15
+CHOUPENITCH Alexander
+CZE
+11
+IMBODEN Race
+USA
+12
+LEFORT Enzo
+FRA
+15
+SIESS Michal
+POL
+13
+KRUSE Richard
+GBR
+15
+GAROZZO Daniele
+ITA
+15
+RIGIN Dmitry
+RUS
+13
+CHEUNG Ka Long
+HKG
+13
+FOCONI Alessio
+ITA
+15
+ASPROMONTE Valerio
+ITA
+15
+SIMON Vincent
+FRA
+9
+DOUGLAS Sholto
+AUS
+4
+SAFIN Timur
+RUS
+15
+Table of QF
+MASSIALAS Alexander
+USA
+15
+LE PECHOUX Erwann
+FRA
+4
+LEFORT Enzo
+FRA
+15
+KRUSE Richard
+GBR
+13
+GAROZZO Daniele
+ITA
+10
+FOCONI Alessio
+ITA
+15
+ASPROMONTE Valerio
+ITA
+13
+SAFIN Timur
+RUS
+15
+Table of SF
+MASSIALAS Alexander
+USA
+15
+LEFORT Enzo
+FRA
+7
+FOCONI Alessio
+ITA
+12
+SAFIN Timur
+RUS
+15
+Table of Final
+MASSIALAS Alexander
+USA
+15
+SAFIN Timur
+RUS
+13

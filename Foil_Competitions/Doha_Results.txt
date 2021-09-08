@@ -1,0 +1,383 @@
+FOCONI Alessio
+ITA
+14
+BIBARD Tyvan
+FRA
+15
+KHAMZIN Askar
+RUS
+14
+OISHI Riki
+JPN
+15
+KIM Dongsu
+KOR
+9
+ROGER Wallerand
+FRA
+15
+TOLDO Guilherme
+BRA
+11
+MEPSTEAD Marcus
+GBR
+10
+CHEREMISINOV Alexey
+RUS
+14
+CHASTANET Maximilien
+FRA
+15
+TOFALIDES Alex
+CYP
+15
+RZADKOWSKI Andrzej
+POL
+13
+LOISEL Pierre
+FRA
+15
+MATHIEU Adam
+USA
+13
+CAI Alex
+CAN
+4
+IMBODEN Race
+USA
+15
+GAROZZO Daniele
+ITA
+15
+TOTUSEK Marek
+CZE
+3
+PAROLI Alessandro
+ITA
+6
+CHOUPENITCH Alexander
+CZE
+15
+MATSUYAMA Kyosuke
+JPN
+11
+AVOLA Giorgio
+ITA
+15
+BIALIAYEU Raman
+BLR
+6
+CHOI Chun Yin Ryan
+HKG
+15
+CHEUNG Ka Long
+HKG
+15
+KWAK Junhyuk
+KOR
+7
+SAVIN Rafael
+FRA
+15
+MYLNIKOV Vladislav
+RUS
+11
+SEMENYUK Grigoriy
+RUS
+15
+LOUIE Bryce
+USA
+11
+SUZUMURA Kenta
+JPN
+12
+MEINHARDT Gerek
+USA
+15
+CASSARA Andrea
+ITA
+14
+ZHEREBCHENKO Dmitry
+RUS
+15
+BORODACHEV Anton
+RUS
+15
+ITO Takuma
+JPN
+11
+SIROTKIN Alexander
+RUS
+11
+SIESS Michal
+POL
+15
+NG Lok Wang Lawrence
+HKG
+15
+LE PECHOUX Erwann
+FRA
+12
+LEE Kwanghyun
+KOR
+15
+KOZLOV Zakhar
+RUS
+13
+HA Taegyu
+KOR
+14
+SHIKINE Takahiro
+JPN
+15
+MARINI Tommaso
+ITA
+11
+BIANCHI Guillaume
+ITA
+15
+SAITO Toshiya
+JPN
+8
+MASSIALAS Alexander
+USA
+15
+ITKIN Nick
+USA
+15
+KRUSE Richard
+GBR
+11
+BORODACHEV Kirill
+RUS
+15
+LUPERI Edoardo
+ITA
+8
+HAMZA Mohamed
+EGY
+11
+EDIRI Alexandre
+FRA
+15
+NAGANO Yudai
+JPN
+12
+MERTINE Julien
+FRA
+15
+PAUTY Maxime
+FRA
+15
+NISTA Lorenzo
+ITA
+8
+SZEMES Gergo
+HUN
+9
+RAJSKI Leszek
+POL
+15
+TOURETTE Geoffrey
+USA
+14
+SIDO Alexandre
+FRA
+15
+ROSATELLI Damiano
+ITA
+15
+LEFORT Enzo
+FRA
+14
+Table of 32
+BIBARD Tyvan
+FRA
+15
+OISHI Riki
+JPN
+1
+ROGER Wallerand
+FRA
+9
+TOLDO Guilherme
+BRA
+15
+CHASTANET Maximilien
+FRA
+15
+TOFALIDES Alex
+CYP
+13
+LOISEL Pierre
+FRA
+11
+IMBODEN Race
+USA
+15
+GAROZZO Daniele
+ITA
+10
+CHOUPENITCH Alexander
+CZE
+15
+AVOLA Giorgio
+ITA
+12
+CHOI Chun Yin Ryan
+HKG
+15
+CHEUNG Ka Long
+HKG
+15
+SAVIN Rafael
+FRA
+13
+SEMENYUK Grigoriy
+RUS
+14
+MEINHARDT Gerek
+USA
+15
+ZHEREBCHENKO Dmitry
+RUS
+9
+BORODACHEV Anton
+RUS
+15
+SIESS Michal
+POL
+15
+NG Lok Wang Lawrence
+HKG
+8
+LEE Kwanghyun
+KOR
+10
+SHIKINE Takahiro
+JPN
+15
+BIANCHI Guillaume
+ITA
+9
+MASSIALAS Alexander
+USA
+15
+ITKIN Nick
+USA
+2
+BORODACHEV Kirill
+RUS
+15
+EDIRI Alexandre
+FRA
+15
+MERTINE Julien
+FRA
+13
+PAUTY Maxime
+FRA
+9
+RAJSKI Leszek
+POL
+15
+SIDO Alexandre
+FRA
+15
+ROSATELLI Damiano
+ITA
+13
+Table of 16
+BIBARD Tyvan
+FRA
+11
+TOLDO Guilherme
+BRA
+15
+CHASTANET Maximilien
+FRA
+8
+IMBODEN Race
+USA
+15
+CHOUPENITCH Alexander
+CZE
+9
+CHOI Chun Yin Ryan
+HKG
+15
+CHEUNG Ka Long
+HKG
+13
+MEINHARDT Gerek
+USA
+15
+BORODACHEV Anton
+RUS
+6
+SIESS Michal
+POL
+15
+SHIKINE Takahiro
+JPN
+15
+MASSIALAS Alexander
+USA
+10
+BORODACHEV Kirill
+RUS
+11
+EDIRI Alexandre
+FRA
+15
+RAJSKI Leszek
+POL
+8
+SIDO Alexandre
+FRA
+15
+Table of QF
+TOLDO Guilherme
+BRA
+6
+IMBODEN Race
+USA
+15
+CHOI Chun Yin Ryan
+HKG
+11
+MEINHARDT Gerek
+USA
+15
+SIESS Michal
+POL
+11
+SHIKINE Takahiro
+JPN
+15
+EDIRI Alexandre
+FRA
+15
+SIDO Alexandre
+FRA
+6
+Table of SF
+IMBODEN Race
+USA
+8
+MEINHARDT Gerek
+USA
+15
+SHIKINE Takahiro
+JPN
+15
+EDIRI Alexandre
+FRA
+14
+Table of Final
+MEINHARDT Gerek
+USA
+15
+SHIKINE Takahiro
+JPN
+11
