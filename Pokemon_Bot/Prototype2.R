@@ -11,7 +11,7 @@ Types=c("Normal","Fire","Water","Electric","Grass","Ice","Fighting","Poison",
 No_copies=seq(from=0.01,to=0.02,by=0.0001)
 
 library(KeyboardSimulator)
-rstudioapi::jobRunScript('../desktop/R Scripts/Pokemon_and_Web_Scraping/Showdown_Bot/Battle_Info.R',exportEnv='R_GlobalEnv')
+rstudioapi::jobRunScript('../desktop/Pokemon_Bot/Battle_Info.R',exportEnv='R_GlobalEnv')
 
 Setup=function(x){
 info2()
